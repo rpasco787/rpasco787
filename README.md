@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ryan 👋
 
-<!--
-**rpasco787/rpasco787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CS student at **Rice University** who builds backend and infrastructure systems, mostly in **Go** and **Java**. I'm most interested in distributed systems.
 
-Here are some ideas to get you started:
+### 🔧 What I've been working on
+- **SAS Institute, Health & Life Sciences R&D:** designed a Go healthcare-data ingestion pipeline (FHIR/NDJSON, Azure → Snowflake) and built an MCP server that exposes SAS Health capabilities
+- **RiceApps:** team lead for 2026–27. Building GRAIN, an internal LLM gateway for RiceApps. Last year I built an inventory system for Fondren Library (Next.js, PostgreSQL)
+- **[hopper](link):** a distributed job queue in Go/Java with gRPC, PostgreSQL, Kubernetes, KEDA, and Helm. It has lease-based at-least-once delivery, retries, cron scheduling, and a dead-letter queue
+- **[SkyTrack](link):** a flight-tracking platform on AWS (Spring Boot, SQS FIFO, DynamoDB, S3 Parquet) that processes 1M+ position updates per hour and models cascading delays
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack
+**Languages:** Go · Java · Python · TypeScript
+**Backend & infra:** gRPC · Spring Boot · PostgreSQL · Kubernetes · Docker · Helm
+**Cloud & data:** AWS (SQS, DynamoDB, Lambda, S3) · Azure · Snowflake
+
+### 📫 Reach me
+rpascual789@gmail.com
